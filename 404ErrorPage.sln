@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "404ErrorPage", "404ErrorPage\404ErrorPage.csproj", "{EAB2B39A-E987-45B9-9585-A4426A07EDB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB2B39A-E987-45B9-9585-A4426A07EDB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB2B39A-E987-45B9-9585-A4426A07EDB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB2B39A-E987-45B9-9585-A4426A07EDB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB2B39A-E987-45B9-9585-A4426A07EDB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29C84D89-EDC9-4A57-AD2C-71A018009FE7}
+	EndGlobalSection
+EndGlobal
